@@ -1,3 +1,9 @@
+
+header { 
+  display: block;
+}
+
+
 img {
   border-radius: 25%;
 }
