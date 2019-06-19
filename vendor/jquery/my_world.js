@@ -14,8 +14,6 @@ header.classList.remove("sticky");
 }
 var footer=document.getElementById("myFooter");
 
-var sticky=footer.offsetTop;
-
 function myFunction() {
  if(window.pageYoffset>sticky){
 footer.classList.add("sticky");
