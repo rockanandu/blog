@@ -29,8 +29,8 @@ padding-top: 110px;
 .footer:before {
     clear: both;
     display: block;
-    height: 120px;
-    min-height: 120px;
+    height: 300px;
+    min-height: 300px;
 }
 
 
