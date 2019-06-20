@@ -148,7 +148,7 @@ header.masthead .bg-circle-8 {
 @media (min-width: 992px) {
   header.masthead {
     padding-top: calc(10rem + 55px);
-    padding-bottom: 10rem;
+    padding-bottom: 15rem;
   }
   header.masthead .masthead-content .masthead-heading {
     font-size: 6rem;
@@ -159,17 +159,17 @@ header.masthead .bg-circle-8 {
 }
 
 .bg-primary {
-  background-color: #ee0979 !important;
+  background-color: #2a2068 !important;
 }
 
 .btn-primary {
-  background-color: #ee0979;
-  border-color: #ee0979;
+  background-color: #2a2068;
+  border-color: #2a2068;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #bd0760 !important;
-  border-color: #bd0760 !important;
+  background-color: #307a68 !important;
+  border-color: #307a68 !important;
 }
 
 .btn-primary:focus {
@@ -178,13 +178,13 @@ header.masthead .bg-circle-8 {
 }
 
 .btn-secondary {
-  background-color: #ff6a00;
-  border-color: #ff6a00;
+  background-color: #5e1541;
+  border-color: #5e1541;
 }
 
 .btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
-  background-color: #cc5500 !important;
-  border-color: #cc5500 !important;
+  background-color: #84a073 !important;
+  border-color: #84a073 !important;
 }
 
 .btn-secondary:focus {
