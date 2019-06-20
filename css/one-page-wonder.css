@@ -89,10 +89,10 @@ header.masthead .bg-circle {
 }
 
 header.masthead .bg-circle-1 {
-  height: 90rem;
-  width: 90rem;
-  bottom: -55rem;
-  left: -55rem;
+  height: 60rem;
+  width: 60rem;
+  bottom: -35rem;
+  left: -35rem;
 }
 
 header.masthead .bg-circle-2 {
@@ -103,9 +103,9 @@ header.masthead .bg-circle-2 {
 }
 
 header.masthead .bg-circle-3 {
-  height: 20rem;
-  width: 20rem;
-  bottom: -10rem;
+  height: 40rem;
+  width: 40rem;
+  bottom: -20rem;
   right: 5%;
 }
 
@@ -115,6 +115,35 @@ header.masthead .bg-circle-4 {
   top: -5rem;
   right: 35%;
 }
+
+header.masthead .bg-circle-5 {
+  height: 60rem;
+  width: 60rem;
+  top: -55rem;
+  right: 25%;
+}
+
+header.masthead .bg-circle-6 {
+  height: 30rem;
+  width: 30rem;
+  top: -25rem;
+  right: 55%;
+}
+
+header.masthead .bg-circle-7 {
+  height: 20rem;
+  width: 20rem;
+  top: -50rem;
+  right: 15%;
+}
+
+header.masthead .bg-circle-8 {
+  height: 450rem;
+  width: 45rem;
+  top: -15rem;
+  right: 60%;
+}
+
 
 @media (min-width: 992px) {
   header.masthead {
